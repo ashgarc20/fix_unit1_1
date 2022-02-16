@@ -31,3 +31,22 @@ When I ran 'pod install' , I received and error message. I was unable to solve t
 
 <img width="1343" alt="Screen Shot 2022-02-08 at 10 04 14 PM" src="https://user-images.githubusercontent.com/32247665/153132252-f303bfac-5c40-4a43-b86e-b17d61ade308.png">
 
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="http://g.recordit.co/39C2jyS5sh.gif" width=250><br>
+
+### Notes
+Describe any challenges encountered while building the app.
